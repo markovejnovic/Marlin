@@ -1,3 +1,15 @@
+> [!NOTE]
+> This Marlin build is special and is especially designed for my cousin. Do
+> **not** use this.
+>
+> The configuration is based on https://www.youtube.com/watch?v=-pZmeRf-XNs
+>
+> You can build by running:
+> ```sh
+> platformio run
+> stat .pio/build/STM32F103RE_creality/firmware-20240617-203458.bin
+> ```
+
 <p align="center"><img src="buildroot/share/pixmaps/logo/marlin-outrun-nf-500.png" height="250" alt="MarlinFirmware's logo" /></p>
 
 <h1 align="center">Marlin 3D Printer Firmware</h1>
